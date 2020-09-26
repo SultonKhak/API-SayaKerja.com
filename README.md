@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## BASE_URL = https://sayakerja-api.herokuapp.com/
 
 ### User
@@ -135,3 +136,8 @@
             'additional' => 'required',
         }
     }
+=======
+# API-SayaKerja.com
+Saya Kerja.com adalah sebuah platform berbasis aplikasi yang membantu yang tidak terlalu tinggiari kerja yang memilikimempertemukan penyedia lapangan kerja dengan pencpendidikan. 
+Code API ini dibuat untuk melengkapi frontend aplikasi SayaKerja.com 
+>>>>>>> 5eb732fdc18badfcb07808da8c319394ec98108b
